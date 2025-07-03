@@ -1,0 +1,3 @@
+
+ [Key.enter] 
+ [Key.enter]  [Key.enter]  [Key.cmd]  [Key.print_screen]  [Key.cmd]  [Key.print_screen]  [Key.shift] Keylogger [Key.enter]  [Key.enter]  [Key.ctrl] v [Key.backspace]  [Key.enter]  [Key.ctrl] v [Key.backspace]  [Key.shift_r]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.ctrl] c [Key.enter]  [Key.ctrl] v [Key.shift] Screenshots [Key.enter]  [Key.shift_r]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.right]  [Key.ctrl] x [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.left]  [Key.enter]  [Key.ctrl] v [Key.backspace]  [Key.backspace]  [Key.enter] 
